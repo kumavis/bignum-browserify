@@ -21,10 +21,10 @@
   "author": "Zach Carter, Wei Lu",
   "license": "APL 2.0",
   "dependencies": {
-    "jsbn": "0.0.0"
+    "jsbn": "0.1.0"
   },
   "devDependencies": {
-    "bignum": "^0.9.1",
-    "tape": "^3.5.0"
+    "bignum": "^0.12.5",
+    "tape": "^4.6.2"
   }
 }
